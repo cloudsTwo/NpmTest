@@ -14,13 +14,9 @@ yarn-error.log*
 pnpm-debug.log*
 
 # 忽略目录
-examples/
-packages/
-public/
+
 
 # 忽略指定文件
-vue.config.js
-babel.config.js
 *.map
 
 # Editor directories and files

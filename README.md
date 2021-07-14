@@ -1,4 +1,6 @@
-# download-test
+# download-tes
+**上传npm组件包**
+**使用vuepress编写md文档发布**
 
 ## Project setup
 ```
